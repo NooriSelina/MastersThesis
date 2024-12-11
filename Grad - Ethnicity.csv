@@ -1,0 +1,1081 @@
+Borough,Category,Year,# Total Cohort,# Grads,% Grads,# Dropout,% Dropout
+Bronx,Asian,2019,903,859,95.1,10,1.1
+Bronx,Asian,2018,932,879,94.3,20,2.1
+Bronx,Asian,2017,993,925,93.2,16,1.6
+Bronx,Asian,2016,974,906,93.0,21,2.2
+Bronx,Asian,2015,999,923,92.4,25,2.5
+Bronx,Asian,2014,968,866,89.5,29,3.0
+Bronx,Asian,2013,883,801,90.7,23,2.6
+Bronx,Asian,2012,981,876,89.3,31,3.2
+Bronx,Asian,2019,903,848,93.9,11,1.2
+Bronx,Asian,2018,932,871,93.5,20,2.1
+Bronx,Asian,2017,993,914,92.0,16,1.6
+Bronx,Asian,2016,974,898,92.2,22,2.3
+Bronx,Asian,2015,999,910,91.1,25,2.5
+Bronx,Asian,2014,968,849,87.7,29,3.0
+Bronx,Asian,2013,883,788,89.2,23,2.6
+Bronx,Asian,2012,981,859,87.6,31,3.2
+Bronx,Asian,2018,931,889,95.5,23,2.5
+Bronx,Asian,2017,991,934,94.2,32,3.2
+Bronx,Asian,2016,972,919,94.5,33,3.4
+Bronx,Asian,2015,999,948,94.9,33,3.3
+Bronx,Asian,2014,963,884,91.8,53,5.5
+Bronx,Asian,2013,880,810,92.0,36,4.1
+Bronx,Asian,2012,974,892,91.6,40,4.1
+Bronx,Asian,2018,931,888,95.4,23,2.5
+Bronx,Asian,2017,991,932,94.0,32,3.2
+Bronx,Asian,2016,972,916,94.2,33,3.4
+Bronx,Asian,2015,999,947,94.8,34,3.4
+Bronx,Asian,2014,963,881,91.5,53,5.5
+Bronx,Asian,2013,880,808,91.8,36,4.1
+Bronx,Asian,2012,974,890,91.4,40,4.1
+Bronx,Asian,2017,991,934,94.2,32,3.2
+Bronx,Asian,2016,971,923,95.1,35,3.6
+Bronx,Asian,2015,1000,952,95.2,33,3.3
+Bronx,Asian,2014,962,899,93.5,44,4.6
+Bronx,Asian,2013,878,812,92.5,38,4.3
+Bronx,Asian,2012,974,896,92.0,42,4.3
+Bronx,Black,2019,3151,2391,75.9,254,8.1
+Bronx,Black,2018,3263,2528,77.5,234,7.2
+Bronx,Black,2017,3488,2623,75.2,287,8.2
+Bronx,Black,2016,3481,2548,73.2,300,8.6
+Bronx,Black,2015,3643,2503,68.7,448,12.3
+Bronx,Black,2014,3745,2544,67.9,394,10.5
+Bronx,Black,2013,3834,2532,66.0,389,10.1
+Bronx,Black,2012,3963,2581,65.1,467,11.8
+Bronx,Black,2019,3151,2306,73.2,258,8.2
+Bronx,Black,2018,3263,2470,75.7,235,7.2
+Bronx,Black,2017,3488,2526,72.4,287,8.2
+Bronx,Black,2016,3481,2493,71.6,306,8.8
+Bronx,Black,2015,3643,2361,64.8,450,12.4
+Bronx,Black,2014,3745,2398,64.0,394,10.5
+Bronx,Black,2013,3834,2401,62.6,389,10.1
+Bronx,Black,2012,3963,2479,62.6,467,11.8
+Bronx,Black,2018,3227,2618,81.1,305,9.5
+Bronx,Black,2017,3458,2730,78.9,407,11.8
+Bronx,Black,2016,3463,2712,78.3,420,12.1
+Bronx,Black,2015,3611,2690,74.5,545,15.1
+Bronx,Black,2014,3697,2731,73.9,617,16.7
+Bronx,Black,2013,3803,2748,72.3,574,15.1
+Bronx,Black,2012,3961,2787,70.4,652,16.5
+Bronx,Black,2018,3227,2608,80.8,306,9.5
+Bronx,Black,2017,3458,2721,78.7,411,11.9
+Bronx,Black,2016,3463,2693,77.8,421,12.2
+Bronx,Black,2015,3611,2668,73.9,553,15.3
+Bronx,Black,2014,3697,2710,73.3,622,16.8
+Bronx,Black,2013,3803,2719,71.5,574,15.1
+Bronx,Black,2012,3961,2760,69.7,653,16.5
+Bronx,Black,2017,3435,2764,80.5,421,12.3
+Bronx,Black,2016,3453,2758,79.9,479,13.9
+Bronx,Black,2015,3604,2752,76.4,561,15.6
+Bronx,Black,2014,3688,2804,76.0,617,16.7
+Bronx,Black,2013,3772,2813,74.6,643,17.0
+Bronx,Black,2012,3956,2891,73.1,711,18.0
+Bronx,Hispanic,2019,7369,5806,78.8,638,8.7
+Bronx,Hispanic,2018,7409,5767,77.8,682,9.2
+Bronx,Hispanic,2017,7812,5950,76.2,655,8.4
+Bronx,Hispanic,2016,7995,5706,71.4,879,11.0
+Bronx,Hispanic,2015,8327,5623,67.5,1194,14.3
+Bronx,Hispanic,2014,8338,5304,63.6,1189,14.3
+Bronx,Hispanic,2013,8143,5139,63.1,1112,13.7
+Bronx,Hispanic,2012,8052,4911,61.0,1170,14.5
+Bronx,Hispanic,2019,7369,5633,76.4,648,8.8
+Bronx,Hispanic,2018,7409,5619,75.8,683,9.2
+Bronx,Hispanic,2017,7812,5719,73.2,659,8.4
+Bronx,Hispanic,2016,7995,5545,69.4,885,11.1
+Bronx,Hispanic,2015,8327,5243,63.0,1208,14.5
+Bronx,Hispanic,2014,8338,4955,59.4,1189,14.3
+Bronx,Hispanic,2013,8143,4835,59.4,1112,13.7
+Bronx,Hispanic,2012,8052,4648,57.7,1170,14.5
+Bronx,Hispanic,2018,7348,5997,81.6,890,12.1
+Bronx,Hispanic,2017,7762,6217,80.1,960,12.4
+Bronx,Hispanic,2016,7939,6102,76.9,1148,14.5
+Bronx,Hispanic,2015,8276,6101,73.7,1440,17.4
+Bronx,Hispanic,2014,8254,5734,69.5,1778,21.5
+Bronx,Hispanic,2013,8074,5543,68.7,1537,19.0
+Bronx,Hispanic,2012,7989,5319,66.6,1573,19.7
+Bronx,Hispanic,2018,7348,5975,81.3,897,12.2
+Bronx,Hispanic,2017,7762,6197,79.8,969,12.5
+Bronx,Hispanic,2016,7939,6073,76.5,1152,14.5
+Bronx,Hispanic,2015,8276,6054,73.2,1461,17.7
+Bronx,Hispanic,2014,8254,5665,68.6,1797,21.8
+Bronx,Hispanic,2013,8074,5495,68.1,1538,19.0
+Bronx,Hispanic,2012,7989,5259,65.8,1576,19.7
+Bronx,Hispanic,2017,7729,6280,81.3,1001,13.0
+Bronx,Hispanic,2016,7921,6202,78.3,1278,16.1
+Bronx,Hispanic,2015,8266,6246,75.6,1470,17.8
+Bronx,Hispanic,2014,8231,5900,71.7,1754,21.3
+Bronx,Hispanic,2013,8034,5699,70.9,1699,21.1
+Bronx,Hispanic,2012,7950,5490,69.1,1680,21.1
+Bronx,Multi-Racial,2019,79,60,75.9,6,7.6
+Bronx,Multi-Racial,2018,98,77,78.6,5,5.1
+Bronx,Multi-Racial,2017,62,53,85.5,2,3.2
+Bronx,Multi-Racial,2016,84,61,72.6,2,2.4
+Bronx,Multi-Racial,2015,94,72,76.6,4,4.3
+Bronx,Multi-Racial,2014,101,84,83.2,6,5.9
+Bronx,Multi-Racial,2013,71,61,85.9,5,7.0
+Bronx,Multi-Racial,2012,133,118,88.7,9,6.8
+Bronx,Multi-Racial,2019,79,60,75.9,6,7.6
+Bronx,Multi-Racial,2018,98,76,77.6,6,6.1
+Bronx,Multi-Racial,2017,62,53,85.5,2,3.2
+Bronx,Multi-Racial,2016,84,61,72.6,2,2.4
+Bronx,Multi-Racial,2015,94,69,73.4,4,4.3
+Bronx,Multi-Racial,2014,101,79,78.2,6,5.9
+Bronx,Multi-Racial,2013,71,60,84.5,5,7.0
+Bronx,Multi-Racial,2012,133,112,84.2,9,6.8
+Bronx,Multi-Racial,2018,95,81,85.3,6,6.3
+Bronx,Multi-Racial,2017,60,52,86.7,4,6.7
+Bronx,Multi-Racial,2016,80,68,85.0,5,6.3
+Bronx,Multi-Racial,2015,95,76,80.0,4,4.2
+Bronx,Multi-Racial,2014,100,84,84.0,10,10.0
+Bronx,Multi-Racial,2013,70,62,88.6,6,8.6
+Bronx,Multi-Racial,2012,144,122,84.7,9,6.3
+Bronx,Multi-Racial,2018,95,81,85.3,6,6.3
+Bronx,Multi-Racial,2017,60,52,86.7,4,6.7
+Bronx,Multi-Racial,2016,80,68,85.0,5,6.3
+Bronx,Multi-Racial,2015,95,75,78.9,4,4.2
+Bronx,Multi-Racial,2014,100,84,84.0,10,10.0
+Bronx,Multi-Racial,2013,70,62,88.6,6,8.6
+Bronx,Multi-Racial,2012,144,122,84.7,9,6.3
+Bronx,Multi-Racial,2017,61,52,85.2,5,8.2
+Bronx,Multi-Racial,2016,77,66,85.7,6,7.8
+Bronx,Multi-Racial,2015,95,76,80.0,5,5.3
+Bronx,Multi-Racial,2014,101,85,84.2,10,9.9
+Bronx,Multi-Racial,2013,69,62,89.9,6,8.7
+Bronx,Multi-Racial,2012,144,122,84.7,10,6.9
+Bronx,Native American,2019,140,107,76.4,13,9.3
+Bronx,Native American,2018,163,125,76.7,12,7.4
+Bronx,Native American,2017,140,104,74.3,12,8.6
+Bronx,Native American,2016,149,94,63.1,23,15.4
+Bronx,Native American,2015,167,94,56.3,36,21.6
+Bronx,Native American,2014,125,69,55.2,21,16.8
+Bronx,Native American,2013,154,78,50.6,28,18.2
+Bronx,Native American,2012,109,50,45.9,18,16.5
+Bronx,Native American,2019,140,105,75.0,13,9.3
+Bronx,Native American,2018,163,124,76.1,12,7.4
+Bronx,Native American,2017,140,103,73.6,12,8.6
+Bronx,Native American,2016,149,90,60.4,23,15.4
+Bronx,Native American,2015,167,92,55.1,36,21.6
+Bronx,Native American,2014,125,67,53.6,21,16.8
+Bronx,Native American,2013,154,72,46.8,28,18.2
+Bronx,Native American,2012,109,43,39.4,18,16.5
+Bronx,Native American,2018,164,133,81.1,18,11.0
+Bronx,Native American,2017,138,111,80.4,15,10.9
+Bronx,Native American,2016,150,104,69.3,29,19.3
+Bronx,Native American,2015,168,109,64.9,37,22.0
+Bronx,Native American,2014,135,77,57.0,39,28.9
+Bronx,Native American,2013,157,91,58.0,42,26.8
+Bronx,Native American,2012,120,63,52.5,23,19.2
+Bronx,Native American,2018,164,131,79.9,18,11.0
+Bronx,Native American,2017,138,109,79.0,15,10.9
+Bronx,Native American,2016,150,102,68.0,30,20.0
+Bronx,Native American,2015,168,107,63.7,38,22.6
+Bronx,Native American,2014,135,76,56.3,39,28.9
+Bronx,Native American,2013,157,88,56.1,42,26.8
+Bronx,Native American,2012,120,62,51.7,23,19.2
+Bronx,Native American,2017,137,112,81.8,15,10.9
+Bronx,Native American,2016,149,105,70.5,34,22.8
+Bronx,Native American,2015,167,114,68.3,38,22.8
+Bronx,Native American,2014,133,83,62.4,39,29.3
+Bronx,Native American,2013,159,99,62.3,48,30.2
+Bronx,Native American,2012,121,77,63.6,26,21.5
+Bronx,White,2019,614,510,83.1,36,5.9
+Bronx,White,2018,622,545,87.6,21,3.4
+Bronx,White,2017,657,565,86.0,29,4.4
+Bronx,White,2016,738,623,84.4,46,6.2
+Bronx,White,2015,661,537,81.2,52,7.9
+Bronx,White,2014,674,531,78.8,54,8.0
+Bronx,White,2013,645,491,76.1,49,7.6
+Bronx,White,2012,600,449,74.8,62,10.3
+Bronx,White,2019,614,503,81.9,36,5.9
+Bronx,White,2018,622,540,86.8,22,3.5
+Bronx,White,2017,657,553,84.2,29,4.4
+Bronx,White,2016,738,609,82.5,47,6.4
+Bronx,White,2015,661,528,79.9,53,8.0
+Bronx,White,2014,674,516,76.6,54,8.0
+Bronx,White,2013,645,482,74.7,49,7.6
+Bronx,White,2012,600,440,73.3,62,10.3
+Bronx,White,2018,621,558,89.9,26,4.2
+Bronx,White,2017,650,573,88.2,43,6.6
+Bronx,White,2016,738,643,87.1,53,7.2
+Bronx,White,2015,663,560,84.5,58,8.7
+Bronx,White,2014,680,556,81.8,74,10.9
+Bronx,White,2013,650,518,79.7,69,10.6
+Bronx,White,2012,614,480,78.2,80,13.0
+Bronx,White,2018,621,557,89.7,26,4.2
+Bronx,White,2017,650,569,87.5,45,6.9
+Bronx,White,2016,738,643,87.1,53,7.2
+Bronx,White,2015,663,559,84.3,58,8.7
+Bronx,White,2014,680,552,81.2,75,11.0
+Bronx,White,2013,650,515,79.2,69,10.6
+Bronx,White,2012,614,477,77.7,80,13.0
+Bronx,White,2017,649,575,88.6,46,7.1
+Bronx,White,2016,734,643,87.6,58,7.9
+Bronx,White,2015,660,565,85.6,53,8.0
+Bronx,White,2014,683,565,82.7,76,11.1
+Bronx,White,2013,651,529,81.3,76,11.7
+Bronx,White,2012,614,486,79.2,84,13.7
+Brooklyn,Asian,2019,3780,3403,90.0,103,2.7
+Brooklyn,Asian,2018,3823,3494,91.4,101,2.6
+Brooklyn,Asian,2017,3759,3379,89.9,77,2.0
+Brooklyn,Asian,2016,3713,3274,88.2,117,3.2
+Brooklyn,Asian,2015,3759,3238,86.1,177,4.7
+Brooklyn,Asian,2014,3579,3131,87.5,134,3.7
+Brooklyn,Asian,2013,3474,3013,86.7,150,4.3
+Brooklyn,Asian,2012,3423,2889,84.4,163,4.8
+Brooklyn,Asian,2019,3780,3292,87.1,105,2.8
+Brooklyn,Asian,2018,3823,3375,88.3,105,2.7
+Brooklyn,Asian,2017,3759,3261,86.8,77,2.0
+Brooklyn,Asian,2016,3713,3189,85.9,119,3.2
+Brooklyn,Asian,2015,3759,3110,82.7,177,4.7
+Brooklyn,Asian,2014,3579,3001,83.9,134,3.7
+Brooklyn,Asian,2013,3474,2894,83.3,150,4.3
+Brooklyn,Asian,2012,3423,2781,81.2,163,4.8
+Brooklyn,Asian,2018,3820,3565,93.3,150,3.9
+Brooklyn,Asian,2017,3748,3499,93.4,144,3.8
+Brooklyn,Asian,2016,3707,3405,91.9,165,4.5
+Brooklyn,Asian,2015,3735,3379,90.5,223,6.0
+Brooklyn,Asian,2014,3564,3231,90.7,215,6.0
+Brooklyn,Asian,2013,3468,3115,89.8,201,5.8
+Brooklyn,Asian,2012,3404,3005,88.3,237,7.0
+Brooklyn,Asian,2018,3820,3556,93.1,153,4.0
+Brooklyn,Asian,2017,3748,3484,93.0,148,3.9
+Brooklyn,Asian,2016,3707,3389,91.4,167,4.5
+Brooklyn,Asian,2015,3735,3365,90.1,227,6.1
+Brooklyn,Asian,2014,3564,3212,90.1,222,6.2
+Brooklyn,Asian,2013,3468,3091,89.1,205,5.9
+Brooklyn,Asian,2012,3404,2980,87.5,239,7.0
+Brooklyn,Asian,2017,3744,3512,93.8,158,4.2
+Brooklyn,Asian,2016,3705,3430,92.6,186,5.0
+Brooklyn,Asian,2015,3735,3410,91.3,232,6.2
+Brooklyn,Asian,2014,3562,3268,91.7,216,6.1
+Brooklyn,Asian,2013,3463,3140,90.7,226,6.5
+Brooklyn,Asian,2012,3396,3026,89.1,259,7.6
+Brooklyn,Black,2019,6579,5336,81.1,310,4.7
+Brooklyn,Black,2018,6655,5428,81.6,299,4.5
+Brooklyn,Black,2017,7031,5631,80.1,274,3.9
+Brooklyn,Black,2016,7559,5848,77.4,389,5.1
+Brooklyn,Black,2015,7779,5802,74.6,568,7.3
+Brooklyn,Black,2014,8013,5925,73.9,534,6.7
+Brooklyn,Black,2013,8189,5879,71.8,586,7.2
+Brooklyn,Black,2012,8825,6183,70.1,645,7.3
+Brooklyn,Black,2019,6579,5130,78.0,321,4.9
+Brooklyn,Black,2018,6655,5259,79.0,306,4.6
+Brooklyn,Black,2017,7031,5417,77.0,279,4.0
+Brooklyn,Black,2016,7559,5671,75.0,392,5.2
+Brooklyn,Black,2015,7779,5457,70.2,576,7.4
+Brooklyn,Black,2014,8013,5634,70.3,534,6.7
+Brooklyn,Black,2013,8189,5545,67.7,586,7.2
+Brooklyn,Black,2012,8825,5822,66.0,645,7.3
+Brooklyn,Black,2018,6628,5685,85.8,472,7.1
+Brooklyn,Black,2017,6988,5931,84.9,485,6.9
+Brooklyn,Black,2016,7544,6196,82.1,586,7.8
+Brooklyn,Black,2015,7757,6282,81.0,705,9.1
+Brooklyn,Black,2014,8037,6392,79.5,930,11.6
+Brooklyn,Black,2013,8062,6368,79.0,830,10.3
+Brooklyn,Black,2012,8786,6763,77.0,969,11.0
+Brooklyn,Black,2018,6628,5644,85.2,482,7.3
+Brooklyn,Black,2017,6988,5908,84.5,491,7.0
+Brooklyn,Black,2016,7544,6153,81.6,589,7.8
+Brooklyn,Black,2015,7757,6227,80.3,724,9.3
+Brooklyn,Black,2014,8037,6327,78.7,952,11.8
+Brooklyn,Black,2013,8062,6302,78.2,830,10.3
+Brooklyn,Black,2012,8786,6663,75.8,971,11.1
+Brooklyn,Black,2017,6975,5994,85.9,581,8.3
+Brooklyn,Black,2016,7521,6317,84.0,738,9.8
+Brooklyn,Black,2015,7752,6433,83.0,756,9.8
+Brooklyn,Black,2014,8008,6545,81.7,937,11.7
+Brooklyn,Black,2013,8084,6545,81.0,957,11.8
+Brooklyn,Black,2012,8733,6909,79.1,1071,12.3
+Brooklyn,Hispanic,2019,5786,4521,78.1,452,7.8
+Brooklyn,Hispanic,2018,5680,4394,77.4,486,8.6
+Brooklyn,Hispanic,2017,5378,4056,75.4,351,6.5
+Brooklyn,Hispanic,2016,5488,3964,72.2,452,8.2
+Brooklyn,Hispanic,2015,5278,3743,70.9,524,9.9
+Brooklyn,Hispanic,2014,5401,3845,71.2,533,9.9
+Brooklyn,Hispanic,2013,5190,3483,67.1,579,11.2
+Brooklyn,Hispanic,2012,5174,3407,65.8,587,11.3
+Brooklyn,Hispanic,2019,5786,4320,74.7,461,8.0
+Brooklyn,Hispanic,2018,5680,4216,74.2,488,8.6
+Brooklyn,Hispanic,2017,5378,3863,71.8,354,6.6
+Brooklyn,Hispanic,2016,5488,3838,69.9,452,8.2
+Brooklyn,Hispanic,2015,5278,3534,67.0,527,10.0
+Brooklyn,Hispanic,2014,5401,3609,66.8,533,9.9
+Brooklyn,Hispanic,2013,5190,3281,63.2,579,11.2
+Brooklyn,Hispanic,2012,5174,3223,62.3,587,11.3
+Brooklyn,Hispanic,2018,5651,4611,81.6,669,11.8
+Brooklyn,Hispanic,2017,5358,4308,80.4,619,11.6
+Brooklyn,Hispanic,2016,5474,4261,77.8,623,11.4
+Brooklyn,Hispanic,2015,5260,4079,77.5,679,12.9
+Brooklyn,Hispanic,2014,5412,4112,76.0,826,15.3
+Brooklyn,Hispanic,2013,5174,3773,72.9,808,15.6
+Brooklyn,Hispanic,2012,5154,3686,71.5,822,15.9
+Brooklyn,Hispanic,2018,5651,4577,81.0,675,11.9
+Brooklyn,Hispanic,2017,5358,4276,79.8,623,11.6
+Brooklyn,Hispanic,2016,5474,4207,76.9,628,11.5
+Brooklyn,Hispanic,2015,5260,4042,76.8,696,13.2
+Brooklyn,Hispanic,2014,5412,4070,75.2,834,15.4
+Brooklyn,Hispanic,2013,5174,3732,72.1,809,15.6
+Brooklyn,Hispanic,2012,5154,3647,70.8,822,15.9
+Brooklyn,Hispanic,2017,5351,4375,81.8,719,13.4
+Brooklyn,Hispanic,2016,5461,4378,80.2,752,13.8
+Brooklyn,Hispanic,2015,5256,4167,79.3,734,14.0
+Brooklyn,Hispanic,2014,5404,4244,78.5,848,15.7
+Brooklyn,Hispanic,2013,5172,3900,75.4,898,17.4
+Brooklyn,Hispanic,2012,5149,3797,73.7,909,17.7
+Brooklyn,Multi-Racial,2019,213,175,82.2,16,7.5
+Brooklyn,Multi-Racial,2018,329,279,84.8,14,4.3
+Brooklyn,Multi-Racial,2017,335,308,91.9,5,1.5
+Brooklyn,Multi-Racial,2016,224,198,88.4,5,2.2
+Brooklyn,Multi-Racial,2015,231,203,87.9,6,2.6
+Brooklyn,Multi-Racial,2014,311,275,88.4,9,2.9
+Brooklyn,Multi-Racial,2013,234,209,89.3,9,3.8
+Brooklyn,Multi-Racial,2012,260,233,89.6,11,4.2
+Brooklyn,Multi-Racial,2019,213,171,80.3,16,7.5
+Brooklyn,Multi-Racial,2018,329,271,82.4,14,4.3
+Brooklyn,Multi-Racial,2017,335,302,90.1,5,1.5
+Brooklyn,Multi-Racial,2016,224,193,86.2,5,2.2
+Brooklyn,Multi-Racial,2015,231,195,84.4,6,2.6
+Brooklyn,Multi-Racial,2014,311,270,86.8,9,2.9
+Brooklyn,Multi-Racial,2013,234,202,86.3,9,3.8
+Brooklyn,Multi-Racial,2012,260,227,87.3,11,4.2
+Brooklyn,Multi-Racial,2018,318,285,89.6,17,5.3
+Brooklyn,Multi-Racial,2017,247,231,93.5,9,3.6
+Brooklyn,Multi-Racial,2016,225,203,90.2,8,3.6
+Brooklyn,Multi-Racial,2015,231,206,89.2,8,3.5
+Brooklyn,Multi-Racial,2014,310,281,90.6,17,5.5
+Brooklyn,Multi-Racial,2013,231,214,92.6,12,5.2
+Brooklyn,Multi-Racial,2012,262,237,90.5,13,5.0
+Brooklyn,Multi-Racial,2018,318,284,89.3,17,5.3
+Brooklyn,Multi-Racial,2017,247,231,93.5,9,3.6
+Brooklyn,Multi-Racial,2016,225,202,89.8,8,3.6
+Brooklyn,Multi-Racial,2015,231,206,89.2,8,3.5
+Brooklyn,Multi-Racial,2014,310,280,90.3,17,5.5
+Brooklyn,Multi-Racial,2013,231,212,91.8,12,5.2
+Brooklyn,Multi-Racial,2012,262,236,90.1,13,5.0
+Brooklyn,Multi-Racial,2017,246,231,93.9,11,4.5
+Brooklyn,Multi-Racial,2016,223,205,91.9,11,4.9
+Brooklyn,Multi-Racial,2015,230,209,90.9,8,3.5
+Brooklyn,Multi-Racial,2014,310,281,90.6,16,5.2
+Brooklyn,Multi-Racial,2013,230,214,93.0,12,5.2
+Brooklyn,Multi-Racial,2012,261,238,91.2,12,4.6
+Brooklyn,Native American,2019,175,135,77.1,11,6.3
+Brooklyn,Native American,2018,157,125,79.6,8,5.1
+Brooklyn,Native American,2017,154,121,78.6,7,4.5
+Brooklyn,Native American,2016,125,93,74.4,11,8.8
+Brooklyn,Native American,2015,117,83,70.9,13,11.1
+Brooklyn,Native American,2014,124,82,66.1,9,7.3
+Brooklyn,Native American,2013,100,61,61.0,6,6.0
+Brooklyn,Native American,2012,104,61,58.7,7,6.7
+Brooklyn,Native American,2019,175,126,72.0,11,6.3
+Brooklyn,Native American,2018,157,122,77.7,8,5.1
+Brooklyn,Native American,2017,154,117,76.0,7,4.5
+Brooklyn,Native American,2016,125,91,72.8,11,8.8
+Brooklyn,Native American,2015,117,77,65.8,13,11.1
+Brooklyn,Native American,2014,124,77,62.1,9,7.3
+Brooklyn,Native American,2013,100,55,55.0,6,6.0
+Brooklyn,Native American,2012,104,57,54.8,7,6.7
+Brooklyn,Native American,2018,158,129,81.6,12,7.6
+Brooklyn,Native American,2017,150,124,82.7,13,8.7
+Brooklyn,Native American,2016,126,101,80.2,11,8.7
+Brooklyn,Native American,2015,122,91,74.6,20,16.4
+Brooklyn,Native American,2014,130,96,73.8,20,15.4
+Brooklyn,Native American,2013,112,81,72.3,11,9.8
+Brooklyn,Native American,2012,121,89,73.6,16,13.2
+Brooklyn,Native American,2018,158,129,81.6,12,7.6
+Brooklyn,Native American,2017,150,124,82.7,13,8.7
+Brooklyn,Native American,2016,126,99,78.6,12,9.5
+Brooklyn,Native American,2015,122,89,73.0,22,18.0
+Brooklyn,Native American,2014,130,96,73.8,20,15.4
+Brooklyn,Native American,2013,112,80,71.4,11,9.8
+Brooklyn,Native American,2012,121,88,72.7,16,13.2
+Brooklyn,Native American,2017,150,125,83.3,18,12.0
+Brooklyn,Native American,2016,126,104,82.5,14,11.1
+Brooklyn,Native American,2015,123,93,75.6,22,17.9
+Brooklyn,Native American,2014,133,100,75.2,23,17.3
+Brooklyn,Native American,2013,122,96,78.7,12,9.8
+Brooklyn,Native American,2012,135,106,78.5,18,13.3
+Brooklyn,White,2019,3149,2755,87.5,117,3.7
+Brooklyn,White,2018,3230,2804,86.8,99,3.1
+Brooklyn,White,2017,3479,2954,84.9,101,2.9
+Brooklyn,White,2016,3198,2735,85.5,128,4.0
+Brooklyn,White,2015,3221,2621,81.4,168,5.2
+Brooklyn,White,2014,3138,2495,79.5,159,5.1
+Brooklyn,White,2013,2909,2309,79.4,167,5.7
+Brooklyn,White,2012,3037,2387,78.6,170,5.6
+Brooklyn,White,2019,3149,2659,84.4,118,3.7
+Brooklyn,White,2018,3230,2698,83.5,100,3.1
+Brooklyn,White,2017,3479,2831,81.4,101,2.9
+Brooklyn,White,2016,3198,2664,83.3,128,4.0
+Brooklyn,White,2015,3221,2520,78.2,169,5.2
+Brooklyn,White,2014,3138,2414,76.9,159,5.1
+Brooklyn,White,2013,2909,2227,76.6,167,5.7
+Brooklyn,White,2012,3037,2296,75.6,170,5.6
+Brooklyn,White,2018,3213,2869,89.3,165,5.1
+Brooklyn,White,2017,3306,2972,89.9,161,4.9
+Brooklyn,White,2016,3195,2842,89.0,185,5.8
+Brooklyn,White,2015,3220,2774,86.1,232,7.2
+Brooklyn,White,2014,3131,2609,83.3,263,8.4
+Brooklyn,White,2013,2912,2410,82.8,231,7.9
+Brooklyn,White,2012,3056,2503,81.9,252,8.2
+Brooklyn,White,2018,3213,2859,89.0,167,5.2
+Brooklyn,White,2017,3306,2964,89.7,162,4.9
+Brooklyn,White,2016,3195,2831,88.6,188,5.9
+Brooklyn,White,2015,3220,2758,85.7,234,7.3
+Brooklyn,White,2014,3131,2591,82.8,268,8.6
+Brooklyn,White,2013,2912,2398,82.3,232,8.0
+Brooklyn,White,2012,3056,2492,81.5,253,8.3
+Brooklyn,White,2017,3305,2988,90.4,185,5.6
+Brooklyn,White,2016,3191,2855,89.5,207,6.5
+Brooklyn,White,2015,3210,2803,87.3,227,7.1
+Brooklyn,White,2014,3123,2658,85.1,257,8.2
+Brooklyn,White,2013,2901,2447,84.4,249,8.6
+Brooklyn,White,2012,3049,2538,83.2,286,9.4
+Manhattan,Asian,2019,2232,2079,93.1,59,2.6
+Manhattan,Asian,2018,2181,2043,93.7,44,2.0
+Manhattan,Asian,2017,2233,2077,93.0,39,1.7
+Manhattan,Asian,2016,2362,2145,90.8,72,3.0
+Manhattan,Asian,2015,2263,2038,90.1,86,3.8
+Manhattan,Asian,2014,2325,2101,90.4,79,3.4
+Manhattan,Asian,2013,2308,2035,88.2,99,4.3
+Manhattan,Asian,2012,2334,2052,87.9,93,4.0
+Manhattan,Asian,2019,2232,2044,91.6,59,2.6
+Manhattan,Asian,2018,2181,2007,92.0,44,2.0
+Manhattan,Asian,2017,2233,2053,91.9,40,1.8
+Manhattan,Asian,2016,2362,2125,90.0,72,3.0
+Manhattan,Asian,2015,2263,1999,88.3,86,3.8
+Manhattan,Asian,2014,2325,2059,88.6,79,3.4
+Manhattan,Asian,2013,2308,1985,86.0,99,4.3
+Manhattan,Asian,2012,2334,2016,86.4,93,4.0
+Manhattan,Asian,2018,2186,2068,94.6,55,2.5
+Manhattan,Asian,2017,2237,2112,94.4,60,2.7
+Manhattan,Asian,2016,2359,2180,92.4,83,3.5
+Manhattan,Asian,2015,2268,2088,92.1,93,4.1
+Manhattan,Asian,2014,2322,2147,92.5,94,4.0
+Manhattan,Asian,2013,2309,2086,90.3,114,4.9
+Manhattan,Asian,2012,2339,2103,89.9,118,5.0
+Manhattan,Asian,2018,2186,2066,94.5,55,2.5
+Manhattan,Asian,2017,2237,2109,94.3,60,2.7
+Manhattan,Asian,2016,2359,2178,92.3,83,3.5
+Manhattan,Asian,2015,2268,2081,91.8,95,4.2
+Manhattan,Asian,2014,2322,2143,92.3,95,4.1
+Manhattan,Asian,2013,2309,2083,90.2,115,5.0
+Manhattan,Asian,2012,2339,2098,89.7,118,5.0
+Manhattan,Asian,2017,2238,2118,94.6,66,2.9
+Manhattan,Asian,2016,2362,2191,92.8,96,4.1
+Manhattan,Asian,2015,2272,2101,92.5,98,4.3
+Manhattan,Asian,2014,2324,2162,93.0,94,4.0
+Manhattan,Asian,2013,2316,2101,90.7,124,5.4
+Manhattan,Asian,2012,2342,2124,90.7,133,5.7
+Manhattan,Black,2019,2970,2317,78.0,168,5.7
+Manhattan,Black,2018,2940,2300,78.2,181,6.2
+Manhattan,Black,2017,3111,2402,77.2,164,5.3
+Manhattan,Black,2016,3488,2629,75.4,165,4.7
+Manhattan,Black,2015,3465,2550,73.6,268,7.7
+Manhattan,Black,2014,3618,2545,70.3,279,7.7
+Manhattan,Black,2013,3681,2599,70.6,264,7.2
+Manhattan,Black,2012,3781,2618,69.2,311,8.2
+Manhattan,Black,2019,2970,2229,75.1,168,5.7
+Manhattan,Black,2018,2940,2227,75.7,181,6.2
+Manhattan,Black,2017,3111,2324,74.7,165,5.3
+Manhattan,Black,2016,3488,2548,73.1,165,4.7
+Manhattan,Black,2015,3465,2402,69.3,272,7.8
+Manhattan,Black,2014,3618,2405,66.5,279,7.7
+Manhattan,Black,2013,3681,2475,67.2,264,7.2
+Manhattan,Black,2012,3781,2497,66.0,311,8.2
+Manhattan,Black,2018,2947,2421,82.2,259,8.8
+Manhattan,Black,2017,3123,2535,81.2,293,9.4
+Manhattan,Black,2016,3500,2824,80.7,292,8.3
+Manhattan,Black,2015,3497,2793,79.9,336,9.6
+Manhattan,Black,2014,3632,2759,76.0,489,13.5
+Manhattan,Black,2013,3723,2839,76.3,425,11.4
+Manhattan,Black,2012,3792,2867,75.6,445,11.7
+Manhattan,Black,2018,2947,2410,81.8,264,9.0
+Manhattan,Black,2017,3123,2516,80.6,297,9.5
+Manhattan,Black,2016,3500,2800,80.0,292,8.3
+Manhattan,Black,2015,3497,2772,79.3,343,9.8
+Manhattan,Black,2014,3632,2721,74.9,499,13.7
+Manhattan,Black,2013,3723,2799,75.2,425,11.4
+Manhattan,Black,2012,3792,2843,75.0,445,11.7
+Manhattan,Black,2017,3124,2569,82.2,327,10.5
+Manhattan,Black,2016,3504,2867,81.8,383,10.9
+Manhattan,Black,2015,3503,2863,81.7,389,11.1
+Manhattan,Black,2014,3641,2868,78.8,494,13.6
+Manhattan,Black,2013,3734,2937,78.7,504,13.5
+Manhattan,Black,2012,3788,2946,77.8,505,13.3
+Manhattan,Hispanic,2019,6781,5359,79.0,599,8.8
+Manhattan,Hispanic,2018,6981,5544,79.4,609,8.7
+Manhattan,Hispanic,2017,7186,5727,79.7,471,6.6
+Manhattan,Hispanic,2016,7284,5496,75.5,477,6.5
+Manhattan,Hispanic,2015,7111,5233,73.6,662,9.3
+Manhattan,Hispanic,2014,7254,5227,72.1,663,9.1
+Manhattan,Hispanic,2013,7125,4961,69.6,665,9.3
+Manhattan,Hispanic,2012,7268,5077,69.9,682,9.4
+Manhattan,Hispanic,2019,6781,5170,76.2,604,8.9
+Manhattan,Hispanic,2018,6981,5378,77.0,611,8.8
+Manhattan,Hispanic,2017,7186,5571,77.5,473,6.6
+Manhattan,Hispanic,2016,7284,5359,73.6,483,6.6
+Manhattan,Hispanic,2015,7111,4993,70.2,667,9.4
+Manhattan,Hispanic,2014,7254,4993,68.8,663,9.1
+Manhattan,Hispanic,2013,7125,4717,66.2,665,9.3
+Manhattan,Hispanic,2012,7268,4827,66.4,682,9.4
+Manhattan,Hispanic,2018,6977,5750,82.4,801,11.5
+Manhattan,Hispanic,2017,7196,5928,82.4,767,10.7
+Manhattan,Hispanic,2016,7296,5855,80.2,698,9.6
+Manhattan,Hispanic,2015,7156,5650,79.0,824,11.5
+Manhattan,Hispanic,2014,7307,5599,76.6,1076,14.7
+Manhattan,Hispanic,2013,7178,5388,75.1,1027,14.3
+Manhattan,Hispanic,2012,7282,5498,75.5,998,13.7
+Manhattan,Hispanic,2018,6977,5716,81.9,808,11.6
+Manhattan,Hispanic,2017,7196,5895,81.9,772,10.7
+Manhattan,Hispanic,2016,7296,5804,79.6,702,9.6
+Manhattan,Hispanic,2015,7156,5618,78.5,834,11.7
+Manhattan,Hispanic,2014,7307,5535,75.7,1093,15.0
+Manhattan,Hispanic,2013,7178,5335,74.3,1028,14.3
+Manhattan,Hispanic,2012,7282,5459,75.0,998,13.7
+Manhattan,Hispanic,2017,7204,5983,83.1,862,12.0
+Manhattan,Hispanic,2016,7298,5958,81.6,898,12.3
+Manhattan,Hispanic,2015,7162,5783,80.7,889,12.4
+Manhattan,Hispanic,2014,7343,5763,78.5,1110,15.1
+Manhattan,Hispanic,2013,7197,5551,77.1,1175,16.3
+Manhattan,Hispanic,2012,7298,5654,77.5,1129,15.5
+Manhattan,Multi-Racial,2019,298,271,90.9,9,3.0
+Manhattan,Multi-Racial,2018,441,409,92.7,4,0.9
+Manhattan,Multi-Racial,2017,353,325,92.1,6,1.7
+Manhattan,Multi-Racial,2016,300,271,90.3,2,0.7
+Manhattan,Multi-Racial,2015,301,256,85.0,15,5.0
+Manhattan,Multi-Racial,2014,321,281,87.5,5,1.6
+Manhattan,Multi-Racial,2013,236,210,89.0,14,5.9
+Manhattan,Multi-Racial,2012,219,201,91.8,6,2.7
+Manhattan,Multi-Racial,2019,298,267,89.6,9,3.0
+Manhattan,Multi-Racial,2018,441,401,90.9,4,0.9
+Manhattan,Multi-Racial,2017,353,321,90.9,6,1.7
+Manhattan,Multi-Racial,2016,300,271,90.3,2,0.7
+Manhattan,Multi-Racial,2015,301,251,83.4,15,5.0
+Manhattan,Multi-Racial,2014,321,269,83.8,5,1.6
+Manhattan,Multi-Racial,2013,236,209,88.6,14,5.9
+Manhattan,Multi-Racial,2012,219,195,89.0,6,2.7
+Manhattan,Multi-Racial,2018,441,417,94.6,5,1.1
+Manhattan,Multi-Racial,2017,350,327,93.4,9,2.6
+Manhattan,Multi-Racial,2016,300,278,92.7,4,1.3
+Manhattan,Multi-Racial,2015,305,261,85.6,16,5.2
+Manhattan,Multi-Racial,2014,316,286,90.5,9,2.8
+Manhattan,Multi-Racial,2013,238,215,90.3,16,6.7
+Manhattan,Multi-Racial,2012,226,204,90.3,9,4.0
+Manhattan,Multi-Racial,2018,441,417,94.6,5,1.1
+Manhattan,Multi-Racial,2017,350,327,93.4,9,2.6
+Manhattan,Multi-Racial,2016,300,278,92.7,4,1.3
+Manhattan,Multi-Racial,2015,305,260,85.2,16,5.2
+Manhattan,Multi-Racial,2014,316,285,90.2,9,2.8
+Manhattan,Multi-Racial,2013,238,215,90.3,16,6.7
+Manhattan,Multi-Racial,2012,226,204,90.3,9,4.0
+Manhattan,Multi-Racial,2017,350,328,93.7,11,3.1
+Manhattan,Multi-Racial,2016,299,281,94.0,9,3.0
+Manhattan,Multi-Racial,2015,305,263,86.2,16,5.2
+Manhattan,Multi-Racial,2014,315,289,91.7,9,2.9
+Manhattan,Multi-Racial,2013,238,217,91.2,17,7.1
+Manhattan,Multi-Racial,2012,228,206,90.4,9,3.9
+Manhattan,Native American,2019,124,102,82.3,5,4.0
+Manhattan,Native American,2018,151,113,74.8,3,2.0
+Manhattan,Native American,2017,117,99,84.6,1,0.9
+Manhattan,Native American,2016,95,73,76.8,9,9.5
+Manhattan,Native American,2015,79,62,78.5,4,5.1
+Manhattan,Native American,2014,66,34,51.5,9,13.6
+Manhattan,Native American,2013,77,45,58.4,7,9.1
+Manhattan,Native American,2012,81,52,64.2,10,12.3
+Manhattan,Native American,2019,124,97,78.2,5,4.0
+Manhattan,Native American,2018,151,108,71.5,3,2.0
+Manhattan,Native American,2017,117,93,79.5,1,0.9
+Manhattan,Native American,2016,95,71,74.7,10,10.5
+Manhattan,Native American,2015,79,61,77.2,4,5.1
+Manhattan,Native American,2014,66,33,50.0,9,13.6
+Manhattan,Native American,2013,77,44,57.1,7,9.1
+Manhattan,Native American,2012,81,52,64.2,10,12.3
+Manhattan,Native American,2018,150,131,87.3,7,4.7
+Manhattan,Native American,2017,112,101,90.2,3,2.7
+Manhattan,Native American,2016,97,79,81.4,10,10.3
+Manhattan,Native American,2015,83,64,77.1,8,9.6
+Manhattan,Native American,2014,69,44,63.8,15,21.7
+Manhattan,Native American,2013,91,59,64.8,18,19.8
+Manhattan,Native American,2012,89,68,76.4,13,14.6
+Manhattan,Native American,2018,150,131,87.3,7,4.7
+Manhattan,Native American,2017,112,101,90.2,3,2.7
+Manhattan,Native American,2016,97,77,79.4,10,10.3
+Manhattan,Native American,2015,83,64,77.1,8,9.6
+Manhattan,Native American,2014,69,44,63.8,15,21.7
+Manhattan,Native American,2013,91,58,63.7,18,19.8
+Manhattan,Native American,2012,89,67,75.3,13,14.6
+Manhattan,Native American,2017,113,102,90.3,4,3.5
+Manhattan,Native American,2016,98,80,81.6,13,13.3
+Manhattan,Native American,2015,87,64,73.6,11,12.6
+Manhattan,Native American,2014,69,47,68.1,14,20.3
+Manhattan,Native American,2013,94,62,66.0,22,23.4
+Manhattan,Native American,2012,93,73,78.5,13,14.0
+Manhattan,White,2019,2255,2108,93.5,35,1.6
+Manhattan,White,2018,2241,2042,91.1,38,1.7
+Manhattan,White,2017,2192,2009,91.7,33,1.5
+Manhattan,White,2016,2064,1878,91.0,47,2.3
+Manhattan,White,2015,2055,1820,88.6,42,2.0
+Manhattan,White,2014,1937,1714,88.5,49,2.5
+Manhattan,White,2013,1853,1588,85.7,68,3.7
+Manhattan,White,2012,1886,1637,86.8,44,2.3
+Manhattan,White,2019,2255,2081,92.3,36,1.6
+Manhattan,White,2018,2241,2017,90.0,38,1.7
+Manhattan,White,2017,2192,1980,90.3,33,1.5
+Manhattan,White,2016,2064,1867,90.5,48,2.3
+Manhattan,White,2015,2055,1798,87.5,42,2.0
+Manhattan,White,2014,1937,1686,87.0,49,2.5
+Manhattan,White,2013,1853,1566,84.5,68,3.7
+Manhattan,White,2012,1886,1609,85.3,44,2.3
+Manhattan,White,2018,2238,2078,92.9,55,2.5
+Manhattan,White,2017,2166,2023,93.4,59,2.7
+Manhattan,White,2016,2073,1926,92.9,60,2.9
+Manhattan,White,2015,2061,1869,90.7,62,3.0
+Manhattan,White,2014,1937,1746,90.1,67,3.5
+Manhattan,White,2013,1867,1630,87.3,95,5.1
+Manhattan,White,2012,1905,1677,88.0,73,3.8
+Manhattan,White,2018,2238,2077,92.8,55,2.5
+Manhattan,White,2017,2166,2020,93.3,59,2.7
+Manhattan,White,2016,2073,1924,92.8,60,2.9
+Manhattan,White,2015,2061,1867,90.6,63,3.1
+Manhattan,White,2014,1937,1744,90.0,67,3.5
+Manhattan,White,2013,1867,1625,87.0,95,5.1
+Manhattan,White,2012,1905,1671,87.7,73,3.8
+Manhattan,White,2017,2165,2031,93.8,66,3.0
+Manhattan,White,2016,2062,1927,93.5,70,3.4
+Manhattan,White,2015,2049,1881,91.8,69,3.4
+Manhattan,White,2014,1937,1759,90.8,72,3.7
+Manhattan,White,2013,1865,1647,88.3,104,5.6
+Manhattan,White,2012,1912,1692,88.5,86,4.5
+Queens,Asian,2019,5094,4688,92.0,138,2.7
+Queens,Asian,2018,5398,4946,91.6,176,3.3
+Queens,Asian,2017,5430,4908,90.4,208,3.8
+Queens,Asian,2016,5296,4704,88.8,235,4.4
+Queens,Asian,2015,5407,4733,87.5,236,4.4
+Queens,Asian,2014,5745,4992,86.9,237,4.1
+Queens,Asian,2013,5352,4645,86.8,226,4.2
+Queens,Asian,2012,5283,4468,84.6,280,5.3
+Queens,Asian,2019,5094,4572,89.8,140,2.7
+Queens,Asian,2018,5398,4828,89.4,178,3.3
+Queens,Asian,2017,5430,4797,88.3,209,3.8
+Queens,Asian,2016,5296,4604,86.9,235,4.4
+Queens,Asian,2015,5407,4562,84.4,238,4.4
+Queens,Asian,2014,5745,4827,84.0,237,4.1
+Queens,Asian,2013,5352,4516,84.4,226,4.2
+Queens,Asian,2012,5283,4351,82.4,280,5.3
+Queens,Asian,2018,5381,4990,92.7,243,4.5
+Queens,Asian,2017,5422,4986,92.0,254,4.7
+Queens,Asian,2016,5292,4824,91.2,284,5.4
+Queens,Asian,2015,5405,4917,91.0,286,5.3
+Queens,Asian,2014,5731,5136,89.6,393,6.9
+Queens,Asian,2013,5326,4691,88.1,327,6.1
+Queens,Asian,2012,5267,4631,87.9,363,6.9
+Queens,Asian,2018,5381,4984,92.6,246,4.6
+Queens,Asian,2017,5422,4977,91.8,258,4.8
+Queens,Asian,2016,5292,4811,90.9,287,5.4
+Queens,Asian,2015,5405,4895,90.6,294,5.4
+Queens,Asian,2014,5731,5115,89.3,404,7.0
+Queens,Asian,2013,5326,4669,87.7,328,6.2
+Queens,Asian,2012,5267,4604,87.4,364,6.9
+Queens,Asian,2017,5422,4996,92.1,279,5.1
+Queens,Asian,2016,5291,4841,91.5,306,5.8
+Queens,Asian,2015,5403,4946,91.5,292,5.4
+Queens,Asian,2014,5734,5191,90.5,383,6.7
+Queens,Asian,2013,5327,4728,88.8,365,6.9
+Queens,Asian,2012,5260,4660,88.6,391,7.4
+Queens,Black,2019,3273,2787,85.2,115,3.5
+Queens,Black,2018,3539,3015,85.2,133,3.8
+Queens,Black,2017,3582,2995,83.6,160,4.5
+Queens,Black,2016,3966,3131,78.9,211,5.3
+Queens,Black,2015,4042,3106,76.8,274,6.8
+Queens,Black,2014,4227,3166,74.9,257,6.1
+Queens,Black,2013,4157,2920,70.2,298,7.2
+Queens,Black,2012,4441,3058,68.9,402,9.1
+Queens,Black,2019,3273,2703,82.6,115,3.5
+Queens,Black,2018,3539,2941,83.1,134,3.8
+Queens,Black,2017,3582,2907,81.2,160,4.5
+Queens,Black,2016,3966,3051,76.9,211,5.3
+Queens,Black,2015,4042,2962,73.3,276,6.8
+Queens,Black,2014,4227,3025,71.6,257,6.1
+Queens,Black,2013,4157,2798,67.3,298,7.2
+Queens,Black,2012,4441,2909,65.5,402,9.1
+Queens,Black,2018,3509,3097,88.3,182,5.2
+Queens,Black,2017,3573,3090,86.5,235,6.6
+Queens,Black,2016,3949,3295,83.4,283,7.2
+Queens,Black,2015,4049,3319,82.0,379,9.4
+Queens,Black,2014,4241,3389,79.9,457,10.8
+Queens,Black,2013,4081,3128,76.6,465,11.4
+Queens,Black,2012,4413,3299,74.8,538,12.2
+Queens,Black,2018,3509,3090,88.1,184,5.2
+Queens,Black,2017,3573,3084,86.3,235,6.6
+Queens,Black,2016,3949,3274,82.9,283,7.2
+Queens,Black,2015,4049,3305,81.6,381,9.4
+Queens,Black,2014,4241,3360,79.2,466,11.0
+Queens,Black,2013,4081,3098,75.9,465,11.4
+Queens,Black,2012,4413,3257,73.8,542,12.3
+Queens,Black,2017,3565,3111,87.3,255,7.2
+Queens,Black,2016,3940,3338,84.7,322,8.2
+Queens,Black,2015,4034,3380,83.8,388,9.6
+Queens,Black,2014,4238,3467,81.8,472,11.1
+Queens,Black,2013,4100,3194,77.9,544,13.3
+Queens,Black,2012,4329,3377,78.0,595,13.7
+Queens,Hispanic,2019,7680,6419,83.6,395,5.1
+Queens,Hispanic,2018,7243,6034,83.3,387,5.3
+Queens,Hispanic,2017,7288,5982,82.1,389,5.3
+Queens,Hispanic,2016,7327,5784,78.9,458,6.3
+Queens,Hispanic,2015,7272,5562,76.5,580,8.0
+Queens,Hispanic,2014,7168,5331,74.4,587,8.2
+Queens,Hispanic,2013,7114,5243,73.7,581,8.2
+Queens,Hispanic,2012,7046,5117,72.6,658,9.3
+Queens,Hispanic,2019,7680,6154,80.1,397,5.2
+Queens,Hispanic,2018,7243,5817,80.3,388,5.4
+Queens,Hispanic,2017,7288,5696,78.2,390,5.4
+Queens,Hispanic,2016,7327,5634,76.9,458,6.3
+Queens,Hispanic,2015,7272,5303,72.9,583,8.0
+Queens,Hispanic,2014,7168,5076,70.8,587,8.2
+Queens,Hispanic,2013,7114,4989,70.1,581,8.2
+Queens,Hispanic,2012,7046,4871,69.1,659,9.4
+Queens,Hispanic,2018,7229,6223,86.1,579,8.0
+Queens,Hispanic,2017,7267,6210,85.5,571,7.9
+Queens,Hispanic,2016,7304,6075,83.2,635,8.7
+Queens,Hispanic,2015,7246,5966,82.3,747,10.3
+Queens,Hispanic,2014,7149,5645,79.0,981,13.7
+Queens,Hispanic,2013,7054,5452,77.3,868,12.3
+Queens,Hispanic,2012,7009,5418,77.3,897,12.8
+Queens,Hispanic,2018,7229,6188,85.6,587,8.1
+Queens,Hispanic,2017,7267,6177,85.0,580,8.0
+Queens,Hispanic,2016,7304,6026,82.5,643,8.8
+Queens,Hispanic,2015,7246,5921,81.7,763,10.5
+Queens,Hispanic,2014,7149,5599,78.3,991,13.9
+Queens,Hispanic,2013,7054,5394,76.5,871,12.3
+Queens,Hispanic,2012,7009,5376,76.7,898,12.8
+Queens,Hispanic,2017,7254,6261,86.3,649,8.9
+Queens,Hispanic,2016,7297,6151,84.3,706,9.7
+Queens,Hispanic,2015,7228,6049,83.7,770,10.7
+Queens,Hispanic,2014,7139,5784,81.0,972,13.6
+Queens,Hispanic,2013,7030,5564,79.1,994,14.1
+Queens,Hispanic,2012,6957,5458,78.5,966,13.9
+Queens,Multi-Racial,2019,274,243,88.7,5,1.8
+Queens,Multi-Racial,2018,335,311,92.8,4,1.2
+Queens,Multi-Racial,2017,373,343,92.0,4,1.1
+Queens,Multi-Racial,2016,347,317,91.4,8,2.3
+Queens,Multi-Racial,2015,278,239,86.0,8,2.9
+Queens,Multi-Racial,2014,240,224,93.3,1,0.4
+Queens,Multi-Racial,2013,202,185,91.6,9,4.5
+Queens,Multi-Racial,2012,134,117,87.3,9,6.7
+Queens,Multi-Racial,2019,274,241,88.0,5,1.8
+Queens,Multi-Racial,2018,335,305,91.0,4,1.2
+Queens,Multi-Racial,2017,373,335,89.8,4,1.1
+Queens,Multi-Racial,2016,347,309,89.0,8,2.3
+Queens,Multi-Racial,2015,278,232,83.5,8,2.9
+Queens,Multi-Racial,2014,240,221,92.1,1,0.4
+Queens,Multi-Racial,2013,202,181,89.6,9,4.5
+Queens,Multi-Racial,2012,134,115,85.8,9,6.7
+Queens,Multi-Racial,2018,328,311,94.8,7,2.1
+Queens,Multi-Racial,2017,365,343,94.0,7,1.9
+Queens,Multi-Racial,2016,344,322,93.6,9,2.6
+Queens,Multi-Racial,2015,269,235,87.4,8,3.0
+Queens,Multi-Racial,2014,226,215,95.1,2,0.9
+Queens,Multi-Racial,2013,199,185,93.0,9,4.5
+Queens,Multi-Racial,2012,139,122,87.8,10,7.2
+Queens,Multi-Racial,2018,328,311,94.8,7,2.1
+Queens,Multi-Racial,2017,365,342,93.7,7,1.9
+Queens,Multi-Racial,2016,344,322,93.6,9,2.6
+Queens,Multi-Racial,2015,269,235,87.4,8,3.0
+Queens,Multi-Racial,2014,226,215,95.1,2,0.9
+Queens,Multi-Racial,2013,199,185,93.0,9,4.5
+Queens,Multi-Racial,2012,139,121,87.1,10,7.2
+Queens,Multi-Racial,2017,360,340,94.4,9,2.5
+Queens,Multi-Racial,2016,345,325,94.2,9,2.6
+Queens,Multi-Racial,2015,269,238,88.5,10,3.7
+Queens,Multi-Racial,2014,225,215,95.6,3,1.3
+Queens,Multi-Racial,2013,197,185,93.9,11,5.6
+Queens,Multi-Racial,2012,139,122,87.8,10,7.2
+Queens,Native American,2019,337,288,85.5,12,3.6
+Queens,Native American,2018,379,333,87.9,19,5.0
+Queens,Native American,2017,391,333,85.2,21,5.4
+Queens,Native American,2016,295,238,80.7,29,9.8
+Queens,Native American,2015,317,244,77.0,32,10.1
+Queens,Native American,2014,338,253,74.9,22,6.5
+Queens,Native American,2013,228,139,61.0,26,11.4
+Queens,Native American,2012,178,108,60.7,29,16.3
+Queens,Native American,2019,337,276,81.9,12,3.6
+Queens,Native American,2018,379,326,86.0,19,5.0
+Queens,Native American,2017,391,320,81.8,21,5.4
+Queens,Native American,2016,295,234,79.3,29,9.8
+Queens,Native American,2015,317,233,73.5,32,10.1
+Queens,Native American,2014,338,245,72.5,22,6.5
+Queens,Native American,2013,228,131,57.5,26,11.4
+Queens,Native American,2012,178,104,58.4,29,16.3
+Queens,Native American,2018,378,341,90.2,22,5.8
+Queens,Native American,2017,392,339,86.5,35,8.9
+Queens,Native American,2016,295,242,82.0,34,11.5
+Queens,Native American,2015,321,258,80.4,41,12.8
+Queens,Native American,2014,334,270,80.8,30,9.0
+Queens,Native American,2013,228,154,67.5,40,17.5
+Queens,Native American,2012,183,115,62.8,40,21.9
+Queens,Native American,2018,378,341,90.2,22,5.8
+Queens,Native American,2017,392,338,86.2,35,8.9
+Queens,Native American,2016,295,242,82.0,34,11.5
+Queens,Native American,2015,321,258,80.4,41,12.8
+Queens,Native American,2014,334,269,80.5,30,9.0
+Queens,Native American,2013,228,151,66.2,40,17.5
+Queens,Native American,2012,183,114,62.3,40,21.9
+Queens,Native American,2017,389,341,87.7,37,9.5
+Queens,Native American,2016,295,242,82.0,35,11.9
+Queens,Native American,2015,320,262,81.9,39,12.2
+Queens,Native American,2014,335,275,82.1,34,10.1
+Queens,Native American,2013,229,157,68.6,44,19.2
+Queens,Native American,2012,182,120,65.9,44,24.2
+Queens,White,2019,2054,1815,88.4,55,2.7
+Queens,White,2018,2154,1895,88.0,60,2.8
+Queens,White,2017,2437,2153,88.3,63,2.6
+Queens,White,2016,2319,2014,86.8,71,3.1
+Queens,White,2015,2472,2081,84.2,99,4.0
+Queens,White,2014,2527,2136,84.5,100,4.0
+Queens,White,2013,2364,1980,83.8,98,4.1
+Queens,White,2012,2316,1898,82.0,117,5.1
+Queens,White,2019,2054,1781,86.7,55,2.7
+Queens,White,2018,2154,1850,85.9,60,2.8
+Queens,White,2017,2437,2091,85.8,63,2.6
+Queens,White,2016,2319,1985,85.6,74,3.2
+Queens,White,2015,2472,2007,81.2,99,4.0
+Queens,White,2014,2527,2077,82.2,100,4.0
+Queens,White,2013,2364,1918,81.1,98,4.1
+Queens,White,2012,2316,1850,79.9,117,5.1
+Queens,White,2018,2144,1919,89.5,87,4.1
+Queens,White,2017,2383,2150,90.2,93,3.9
+Queens,White,2016,2314,2057,88.9,101,4.4
+Queens,White,2015,2479,2154,86.9,134,5.4
+Queens,White,2014,2528,2188,86.6,160,6.3
+Queens,White,2013,2371,2012,84.9,121,5.1
+Queens,White,2012,2326,1961,84.3,162,7.0
+Queens,White,2018,2144,1913,89.2,90,4.2
+Queens,White,2017,2383,2143,89.9,96,4.0
+Queens,White,2016,2314,2054,88.8,101,4.4
+Queens,White,2015,2479,2144,86.5,136,5.5
+Queens,White,2014,2528,2178,86.2,163,6.4
+Queens,White,2013,2371,2006,84.6,121,5.1
+Queens,White,2012,2326,1956,84.1,162,7.0
+Queens,White,2017,2377,2155,90.7,94,4.0
+Queens,White,2016,2308,2063,89.4,116,5.0
+Queens,White,2015,2474,2174,87.9,136,5.5
+Queens,White,2014,2523,2214,87.8,159,6.3
+Queens,White,2013,2372,2033,85.7,150,6.3
+Queens,White,2012,2324,1971,84.8,171,7.4
+Staten Island,Asian,2019,605,568,93.9,8,1.3
+Staten Island,Asian,2018,621,588,94.7,12,1.9
+Staten Island,Asian,2017,585,553,94.5,9,1.5
+Staten Island,Asian,2016,577,550,95.3,10,1.7
+Staten Island,Asian,2015,477,451,94.5,6,1.3
+Staten Island,Asian,2014,506,477,94.3,9,1.8
+Staten Island,Asian,2013,463,432,93.3,3,0.6
+Staten Island,Asian,2012,459,422,91.9,9,2.0
+Staten Island,Asian,2019,605,563,93.1,8,1.3
+Staten Island,Asian,2018,621,582,93.7,12,1.9
+Staten Island,Asian,2017,585,540,92.3,9,1.5
+Staten Island,Asian,2016,577,547,94.8,10,1.7
+Staten Island,Asian,2015,477,450,94.3,6,1.3
+Staten Island,Asian,2014,506,472,93.3,9,1.8
+Staten Island,Asian,2013,463,424,91.6,3,0.6
+Staten Island,Asian,2012,459,417,90.8,9,2.0
+Staten Island,Asian,2018,623,598,96.0,13,2.1
+Staten Island,Asian,2017,585,563,96.2,13,2.2
+Staten Island,Asian,2016,576,555,96.4,10,1.7
+Staten Island,Asian,2015,476,456,95.8,8,1.7
+Staten Island,Asian,2014,507,485,95.7,10,2.0
+Staten Island,Asian,2013,463,440,95.0,6,1.3
+Staten Island,Asian,2012,457,433,94.7,14,3.1
+Staten Island,Asian,2018,623,596,95.7,13,2.1
+Staten Island,Asian,2017,585,562,96.1,13,2.2
+Staten Island,Asian,2016,576,554,96.2,11,1.9
+Staten Island,Asian,2015,476,456,95.8,8,1.7
+Staten Island,Asian,2014,507,483,95.3,11,2.2
+Staten Island,Asian,2013,463,437,94.4,6,1.3
+Staten Island,Asian,2012,457,432,94.5,14,3.1
+Staten Island,Asian,2017,585,564,96.4,14,2.4
+Staten Island,Asian,2016,576,556,96.5,11,1.9
+Staten Island,Asian,2015,477,459,96.2,10,2.1
+Staten Island,Asian,2014,506,485,95.8,11,2.2
+Staten Island,Asian,2013,463,443,95.7,6,1.3
+Staten Island,Asian,2012,454,434,95.6,12,2.6
+Staten Island,Black,2019,591,456,77.2,52,8.8
+Staten Island,Black,2018,643,479,74.5,49,7.6
+Staten Island,Black,2017,620,449,72.4,44,7.1
+Staten Island,Black,2016,655,450,68.7,54,8.2
+Staten Island,Black,2015,640,462,72.2,54,8.4
+Staten Island,Black,2014,689,447,64.9,78,11.3
+Staten Island,Black,2013,678,445,65.6,81,11.9
+Staten Island,Black,2012,702,476,67.8,72,10.3
+Staten Island,Black,2019,591,440,74.5,52,8.8
+Staten Island,Black,2018,643,465,72.3,49,7.6
+Staten Island,Black,2017,620,419,67.6,44,7.1
+Staten Island,Black,2016,655,439,67.0,54,8.2
+Staten Island,Black,2015,640,449,70.2,54,8.4
+Staten Island,Black,2014,689,428,62.1,78,11.3
+Staten Island,Black,2013,678,437,64.5,81,11.9
+Staten Island,Black,2012,702,462,65.8,72,10.3
+Staten Island,Black,2018,631,500,79.2,74,11.7
+Staten Island,Black,2017,614,477,77.7,93,15.1
+Staten Island,Black,2016,650,490,75.4,90,13.8
+Staten Island,Black,2015,638,490,76.8,74,11.6
+Staten Island,Black,2014,676,483,71.4,125,18.5
+Staten Island,Black,2013,671,476,70.9,104,15.5
+Staten Island,Black,2012,689,508,73.7,98,14.2
+Staten Island,Black,2018,631,496,78.6,74,11.7
+Staten Island,Black,2017,614,474,77.2,94,15.3
+Staten Island,Black,2016,650,487,74.9,90,13.8
+Staten Island,Black,2015,638,488,76.5,74,11.6
+Staten Island,Black,2014,676,479,70.9,125,18.5
+Staten Island,Black,2013,671,473,70.5,104,15.5
+Staten Island,Black,2012,689,507,73.6,98,14.2
+Staten Island,Black,2017,613,489,79.8,96,15.7
+Staten Island,Black,2016,649,500,77.0,101,15.6
+Staten Island,Black,2015,637,500,78.5,85,13.3
+Staten Island,Black,2014,674,500,74.2,118,17.5
+Staten Island,Black,2013,658,482,73.3,113,17.2
+Staten Island,Black,2012,686,525,76.5,107,15.6
+Staten Island,Hispanic,2019,1364,1077,79.0,90,6.6
+Staten Island,Hispanic,2018,1205,942,78.2,90,7.5
+Staten Island,Hispanic,2017,1225,955,78.0,80,6.5
+Staten Island,Hispanic,2016,1229,919,74.8,77,6.3
+Staten Island,Hispanic,2015,1132,817,72.2,98,8.7
+Staten Island,Hispanic,2014,1176,825,70.2,102,8.7
+Staten Island,Hispanic,2013,1157,804,69.5,125,10.8
+Staten Island,Hispanic,2012,1150,800,69.6,119,10.3
+Staten Island,Hispanic,2019,1364,1056,77.4,90,6.6
+Staten Island,Hispanic,2018,1205,921,76.4,90,7.5
+Staten Island,Hispanic,2017,1225,913,74.5,82,6.7
+Staten Island,Hispanic,2016,1229,899,73.1,77,6.3
+Staten Island,Hispanic,2015,1132,779,68.8,98,8.7
+Staten Island,Hispanic,2014,1176,791,67.3,102,8.7
+Staten Island,Hispanic,2013,1157,775,67.0,125,10.8
+Staten Island,Hispanic,2012,1150,772,67.1,119,10.3
+Staten Island,Hispanic,2018,1201,980,81.6,128,10.7
+Staten Island,Hispanic,2017,1214,1001,82.5,125,10.3
+Staten Island,Hispanic,2016,1227,974,79.4,126,10.3
+Staten Island,Hispanic,2015,1129,886,78.5,128,11.3
+Staten Island,Hispanic,2014,1176,879,74.7,165,14.0
+Staten Island,Hispanic,2013,1152,853,74.0,176,15.3
+Staten Island,Hispanic,2012,1149,857,74.6,161,14.0
+Staten Island,Hispanic,2018,1201,974,81.1,128,10.7
+Staten Island,Hispanic,2017,1214,998,82.2,125,10.3
+Staten Island,Hispanic,2016,1227,963,78.5,127,10.4
+Staten Island,Hispanic,2015,1129,875,77.5,133,11.8
+Staten Island,Hispanic,2014,1176,872,74.1,165,14.0
+Staten Island,Hispanic,2013,1152,846,73.4,176,15.3
+Staten Island,Hispanic,2012,1149,850,74.0,161,14.0
+Staten Island,Hispanic,2017,1214,1012,83.4,136,11.2
+Staten Island,Hispanic,2016,1229,994,80.9,146,11.9
+Staten Island,Hispanic,2015,1132,907,80.1,147,13.0
+Staten Island,Hispanic,2014,1177,908,77.1,172,14.6
+Staten Island,Hispanic,2013,1154,880,76.3,197,17.1
+Staten Island,Hispanic,2012,1148,872,76.0,167,14.5
+Staten Island,Multi-Racial,2019,71,62,87.3,1,1.4
+Staten Island,Multi-Racial,2018,68,60,88.2,2,2.9
+Staten Island,Multi-Racial,2017,44,37,84.1,2,4.5
+Staten Island,Multi-Racial,2016,29,20,69.0,1,3.4
+Staten Island,Multi-Racial,2015,41,25,61.0,4,9.8
+Staten Island,Multi-Racial,2014,43,31,72.1,3,7.0
+Staten Island,Multi-Racial,2013,33,24,72.7,1,3.0
+Staten Island,Multi-Racial,2012,17,13,76.5,0,0.0
+Staten Island,Multi-Racial,2019,71,61,85.9,1,1.4
+Staten Island,Multi-Racial,2018,68,58,85.3,3,4.4
+Staten Island,Multi-Racial,2017,44,35,79.5,2,4.5
+Staten Island,Multi-Racial,2016,29,19,65.5,1,3.4
+Staten Island,Multi-Racial,2015,41,25,61.0,4,9.8
+Staten Island,Multi-Racial,2014,43,31,72.1,3,7.0
+Staten Island,Multi-Racial,2013,33,24,72.7,1,3.0
+Staten Island,Multi-Racial,2012,17,13,76.5,0,0.0
+Staten Island,Multi-Racial,2018,69,61,88.4,4,5.8
+Staten Island,Multi-Racial,2017,43,37,86.0,4,9.3
+Staten Island,Multi-Racial,2016,30,22,73.3,2,6.7
+Staten Island,Multi-Racial,2015,41,25,61.0,5,12.2
+Staten Island,Multi-Racial,2014,45,34,75.6,5,11.1
+Staten Island,Multi-Racial,2013,32,25,78.1,4,12.5
+Staten Island,Multi-Racial,2012,16,15,93.8,1,6.3
+Staten Island,Multi-Racial,2018,69,60,87.0,4,5.8
+Staten Island,Multi-Racial,2017,43,37,86.0,4,9.3
+Staten Island,Multi-Racial,2016,30,22,73.3,2,6.7
+Staten Island,Multi-Racial,2015,41,25,61.0,5,12.2
+Staten Island,Multi-Racial,2014,45,34,75.6,5,11.1
+Staten Island,Multi-Racial,2013,32,25,78.1,4,12.5
+Staten Island,Multi-Racial,2012,16,15,93.8,1,6.3
+Staten Island,Multi-Racial,2017,43,37,86.0,4,9.3
+Staten Island,Multi-Racial,2016,29,22,75.9,4,13.8
+Staten Island,Multi-Racial,2015,42,26,61.9,7,16.7
+Staten Island,Multi-Racial,2014,45,34,75.6,5,11.1
+Staten Island,Multi-Racial,2013,31,25,80.6,4,12.9
+Staten Island,Multi-Racial,2012,16,15,93.8,1,6.3
+Staten Island,Native American,2019,23,18,78.3,2,8.7
+Staten Island,Native American,2018,26,22,84.6,2,7.7
+Staten Island,Native American,2017,22,19,86.4,0,0.0
+Staten Island,Native American,2016,27,22,81.5,0,0.0
+Staten Island,Native American,2015,24,19,79.2,1,4.2
+Staten Island,Native American,2014,16,9,56.3,0,0.0
+Staten Island,Native American,2013,15,12,80.0,2,13.3
+Staten Island,Native American,2012,17,13,76.5,2,11.8
+Staten Island,Native American,2019,23,17,73.9,2,8.7
+Staten Island,Native American,2018,26,21,80.8,2,7.7
+Staten Island,Native American,2017,22,18,81.8,0,0.0
+Staten Island,Native American,2016,27,20,74.1,0,0.0
+Staten Island,Native American,2015,24,19,79.2,1,4.2
+Staten Island,Native American,2014,16,8,50.0,0,0.0
+Staten Island,Native American,2013,15,11,73.3,2,13.3
+Staten Island,Native American,2012,17,13,76.5,2,11.8
+Staten Island,Native American,2018,26,23,88.5,2,7.7
+Staten Island,Native American,2017,23,21,91.3,0,0.0
+Staten Island,Native American,2016,28,23,82.1,2,7.1
+Staten Island,Native American,2015,25,19,76.0,1,4.0
+Staten Island,Native American,2014,17,10,58.8,6,35.3
+Staten Island,Native American,2013,17,13,76.5,3,17.6
+Staten Island,Native American,2012,17,13,76.5,2,11.8
+Staten Island,Native American,2018,26,23,88.5,2,7.7
+Staten Island,Native American,2017,23,21,91.3,0,0.0
+Staten Island,Native American,2016,28,22,78.6,3,10.7
+Staten Island,Native American,2015,25,19,76.0,1,4.0
+Staten Island,Native American,2014,17,10,58.8,6,35.3
+Staten Island,Native American,2013,17,13,76.5,3,17.6
+Staten Island,Native American,2012,17,13,76.5,2,11.8
+Staten Island,Native American,2017,23,21,91.3,0,0.0
+Staten Island,Native American,2016,28,23,82.1,2,7.1
+Staten Island,Native American,2015,25,19,76.0,2,8.0
+Staten Island,Native American,2014,17,11,64.7,5,29.4
+Staten Island,Native American,2013,18,13,72.2,5,27.8
+Staten Island,Native American,2012,16,14,87.5,2,12.5
+Staten Island,White,2019,1929,1788,92.7,34,1.8
+Staten Island,White,2018,2005,1853,92.4,37,1.8
+Staten Island,White,2017,2186,2020,92.4,35,1.6
+Staten Island,White,2016,2177,2013,92.5,39,1.8
+Staten Island,White,2015,2120,1895,89.4,61,2.9
+Staten Island,White,2014,2235,1979,88.5,63,2.8
+Staten Island,White,2013,2285,2001,87.6,64,2.8
+Staten Island,White,2012,2199,1889,85.9,87,4.0
+Staten Island,White,2019,1929,1763,91.4,35,1.8
+Staten Island,White,2018,2005,1838,91.7,37,1.8
+Staten Island,White,2017,2186,1990,91.0,35,1.6
+Staten Island,White,2016,2177,1998,91.8,39,1.8
+Staten Island,White,2015,2120,1872,88.3,61,2.9
+Staten Island,White,2014,2235,1955,87.5,63,2.8
+Staten Island,White,2013,2285,1976,86.5,64,2.8
+Staten Island,White,2012,2199,1850,84.1,87,4.0
+Staten Island,White,2018,1999,1865,93.3,60,3.0
+Staten Island,White,2017,2174,2035,93.6,67,3.1
+Staten Island,White,2016,2169,2039,94.0,63,2.9
+Staten Island,White,2015,2118,1930,91.1,81,3.8
+Staten Island,White,2014,2234,2022,90.5,110,4.9
+Staten Island,White,2013,2289,2053,89.7,108,4.7
+Staten Island,White,2012,2216,1948,87.9,128,5.8
+Staten Island,White,2018,1999,1864,93.2,60,3.0
+Staten Island,White,2017,2174,2030,93.4,67,3.1
+Staten Island,White,2016,2169,2035,93.8,63,2.9
+Staten Island,White,2015,2118,1925,90.9,82,3.9
+Staten Island,White,2014,2234,2017,90.3,111,5.0
+Staten Island,White,2013,2289,2049,89.5,108,4.7
+Staten Island,White,2012,2216,1948,87.9,128,5.8
+Staten Island,White,2017,2172,2041,94.0,66,3.0
+Staten Island,White,2016,2168,2041,94.1,69,3.2
+Staten Island,White,2015,2120,1941,91.6,81,3.8
+Staten Island,White,2014,2235,2033,91.0,108,4.8
+Staten Island,White,2013,2290,2065,90.2,115,5.0
+Staten Island,White,2012,2220,1964,88.5,138,6.2
